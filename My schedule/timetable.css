@@ -1,0 +1,29 @@
+
+ul {
+    list-style-position: inside;
+    text-align: center;
+}
+
+h1 {
+    text-decoration: underline black 6px;
+    text-align: center;
+    color: bisque;
+}
+
+.timetable {
+    text-align: center;
+}
+.header{
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+    position: relative;
+}
+.d{
+    font-size: larger;
+    color: aquamarine;
+}
+.link {
+    text text-decoration: none;
+    color: red;
+}
